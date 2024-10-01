@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "react-scripts build",
+    "build": "parcel build",
     "gh-pages-build": "parcel build --public-url ."
   },
   "repository": {
